@@ -12,9 +12,10 @@
 **bold çift yıldız ile sağ ve sola**
 ***bolditalic 3 yıldız ile sağ ve sola*** 
 
+### link vermek için
 [yazı](url)
 [Google gitmek için tıklayınız] (http://google.com)
 
-eğer imaj vermek istersem
+### eğer imaj vermek istersem ünlem işareti
 
 ![lorem Picsum Görsel] (https://picsum.photos/200/300)
