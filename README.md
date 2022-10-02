@@ -14,8 +14,25 @@
 
 ### link vermek için
 [yazı](url)
-[Google gitmek için tıklayınız] (http://google.com)
+[Google gitmek için tıklayınız](http://google.com)
 
-### eğer imaj vermek istersem ünlem işareti
+### eğer imaj vermek istersem ünlem işareti başa
+-----------------------------------
 
-![lorem Picsum Görsel] (https://picsum.photos/200/300)
+![lorem Picsum Görsel](https://picsum.photos/200/300)
+
+### 3 yıldız tek başına hr tag ı gibi kullanılabilir
+
+*** 
+### backtick ile kod blokları hakkında yazmak için
+
+```python
+print("hello world")
+```
+```javascript
+console.log("hello world");
+
+function helloWorld() {
+    console.log("hello world");
+}
+```
