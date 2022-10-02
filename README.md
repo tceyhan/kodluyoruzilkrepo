@@ -36,3 +36,15 @@ function helloWorld() {
     console.log("hello world");
 }
 ```
+
+### tablo oluşturmak için | kullanılır
+
+| Ürün Numaraları| Ürünün Açıklaması|Ürünün Fiyatı|
+| :--- | :---: | ---: |
+| 1 | Açıklama | Fiyatı |
+
+
+### yazıda alıntı olması gerektiğinde  metinin başında > karakteri kullanılır
+
+>çalışkan olmak irade meselesedir.
+>bazen en zor olan en kolayıdır.
