@@ -14,3 +14,7 @@
 
 [yazı](url)
 [Google gitmek için tıklayınız] (http://google.com)
+
+eğer imaj vermek istersem
+
+![lorem Picsum Görsel] (https://picsum.photos/200/300)
