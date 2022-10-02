@@ -11,3 +11,6 @@
 *italic tek yıldız ile sağ ve sola*
 **bold çift yıldız ile sağ ve sola**
 ***bolditalic 3 yıldız ile sağ ve sola*** 
+
+[yazı](url)
+[Google gitmek için tıklayınız] (http://google.com)
